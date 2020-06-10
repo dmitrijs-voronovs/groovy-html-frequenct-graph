@@ -4,7 +4,8 @@ Creates a frequency graph of html tags
 ## example:
 ```
 Total tags found: 1729
-Tags: div, a, span, path, img, svg, script, style, li, input, ellipse, meta, ul, button, footer, template, i, b, form, header, body, title, br, noscript, base, head, html
+Tags: div, a, span, path, img, svg, script, style, li, input, ellipse, meta, ul,button,
+footer, template, i, b, form, header, body, title, br, noscript, base, head, html
 ---------------------------------------------------------------------------------
    Tag    | qty  |   %   |             graphical representation
 ---------------------------------------------------------------------------------
