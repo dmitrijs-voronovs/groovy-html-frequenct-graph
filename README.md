@@ -41,6 +41,6 @@ footer, template, i, b, form, header, body, title, br, noscript, base, head, htm
 
 ## How to use:
 1. Install groovy
-2. `git clone git@github.com:dmitrijs-voronovs/groovy-html-frequenct-graph.git`
+2. `git clone git@github.com:dmitrijs-voronovs/groovy-html-frequenct-graph.git && cd groovy-html-frequenct-graph`
 2. Insert page source code to `inputHTML.txt`
 2. run `groovy main`
